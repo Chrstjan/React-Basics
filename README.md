@@ -1,2 +1,2 @@
-# Html-Boilerplate
-A Html Boilerplate
+# React Basics
+React Basics to get started
