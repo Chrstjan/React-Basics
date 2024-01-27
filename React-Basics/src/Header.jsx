@@ -1,11 +1,11 @@
-import "./Header.css";
+import styles from "./css/Header.module.css";
 
 function Header() {
   return (
     <header>
       <h1>My website</h1>
       <nav>
-        <ul>
+        <ul className={styles.header}>
           <li>
             <a href="#">Item One</a>
             <a href="#">Item Two</a>
